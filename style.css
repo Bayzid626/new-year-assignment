@@ -14,7 +14,7 @@ margin-bottom: 130px;
     color: #FFFFFF;
     padding-top: 250px;
     padding-right: 150px;
-    padding-left: 850px ;
+    padding-left: 750px ;
     padding-bottom: 24px;
 }
 .header-desc{
@@ -200,7 +200,7 @@ font-size: 40px;
 line-height: 47px;
 padding-top: 30px;
 padding-left: 400px;
-padding-right: 800px;
+padding-right: 600px;
 color: #FFFFFF;
 }
 .banner-btn{
@@ -258,7 +258,7 @@ padding-right: 300px;
 }
 .future{
     padding-left: 300px;
-    padding-right: 600px;
+    padding-right: 300px;
 }
 .email{
     padding: 8px 5px;
