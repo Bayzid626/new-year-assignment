@@ -1,0 +1,290 @@
+/* Header Section Start */
+.header-text{
+background: url('banner3.png');
+margin: 0px 150px;
+height: 808px;
+text-align: right;
+margin-bottom: 130px;
+}
+.header-title{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    padding-top: 250px;
+    padding-right: 150px;
+    padding-left: 850px ;
+    padding-bottom: 24px;
+}
+.header-desc{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-right: 150px;
+    padding-left: 850px ;
+    padding-bottom: 50px;
+}
+.primary-button{
+    padding:10px 8px;
+    border-radius: 5px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    }
+    .primary-button:hover{
+        color: antiquewhite;
+        background-color:#F15B22;
+        cursor: pointer;
+        box-shadow: 5px 5px 5px black; ;
+    }
+    .btn-primary{
+        padding-right: 150px; 
+    }
+/*Header Section End  */
+
+
+
+/* Card Section Start */
+.skills{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 200px;
+
+  }
+.card{
+    display: flex;
+    margin-top: 100px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+  }
+  .card-body{
+    width: 400px;
+  height: 500px;
+  background:#F6F8FA; 
+  border-radius: 10px;
+  }
+  .card-body:hover{
+    transform: scale(1.1);
+    box-shadow:4px 6px 5px black;
+  }
+  .card-body1{
+    width: 400px;
+  height: 500px;
+  background:#F6F8FA; 
+  border-radius: 10px;
+  }
+  .card-body1:hover{
+    transform: scale(1.1);
+    box-shadow:4px 6px 5px black;
+  }
+
+
+  .card-body2{
+    width: 400px;
+  height: 500px;
+  background:#F6F8FA; 
+  border-radius: 10px;
+  }
+  .card-body2:hover{
+    transform: scale(1.1);
+    box-shadow:4px 6px 5px black;
+  }
+
+  .card-title{
+    margin-top: 30px;
+  text-align: left;
+  margin-left: 10px;
+  }
+  .card-desc{
+    text-align: left;
+    margin-left: 10px;
+  }
+  .img-icon{
+    margin-top: 30px;
+    height: 100px;
+    width: 100px;
+
+  }
+/*Card Section End */
+
+
+/* Failure section Start*/
+.my-failures{
+    margin: 0px 250px;
+    display: flex;
+    margin-bottom:150px;
+}
+.failures-heading{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-top:200px ;
+    padding-right: 150px;
+    padding-left: 300px ; 
+}
+.failures-desc{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343; 
+    padding-right: 150px;
+    padding-left: 300px ; 
+}
+.fa-solid{
+    margin-right: 10px;
+    
+    color:#16D887;
+}
+/* Failure Section End */
+
+
+
+/* My-plans section Start*/
+.my-plans{
+    margin: 0px 250px;
+    margin-bottom:150px;
+    text-align: center;
+}
+.plan-heading{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #151414; 
+}
+.plan-topics{
+    margin-top: 100px;
+display: flex;
+justify-content: center;
+gap: 200px;
+}
+.topic-desc{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+text-align: center;
+color: #737272;
+
+}
+/* My-plan Section End */
+
+
+/* Body Banner Start*/
+.body-banner{
+    margin: 0px 250px;
+    margin-bottom:150px;
+    background: url('gradient1.png'),url('watch.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 250px;
+}
+.banner-heading{
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+padding-top: 30px;
+padding-left: 400px;
+padding-right: 800px;
+color: #FFFFFF;
+}
+.banner-btn{
+background: #FFFFFF;
+border-radius: 5px;
+padding:10px 8px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+margin-left: 400px;
+}
+.banner-btn:hover{
+    color: antiquewhite;
+    background-color:#F15B22;
+    cursor: pointer;
+    box-shadow:2px 2px 2px black; ; 
+}
+
+/* Body Banner End */
+
+
+/* Footer for Contact Start */
+.contact{
+    display: flex;
+    background-color: #1E1E1E;
+    margin: 0px 150px;
+    height: 400px;
+}
+.footer-heading{
+    margin-top: 15px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+.footer-desc{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.subscribe{
+padding-right: 300px;
+}
+.subs-heading{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+.future{
+    padding-left: 300px;
+    padding-right: 600px;
+}
+.email{
+    padding: 8px 5px;
+    margin-right: 100px;
+margin-bottom: 10px;
+border-radius: 5px;
+border: 0.5px solid whitesmoke;
+background-color: black;
+}
+.subs-button{
+padding: 8px 5px;
+background: #FFFFFF;
+border-radius: 8px;
+font-weight: 600;
+color: #F15B22;
+}
+.subs-button:hover{
+    color: antiquewhite;
+    background-color:#F15B22;
+    cursor: pointer;
+
+}
+.icon{
+    display: flex;
+}
+.icon-img{
+    margin-left: 10px;
+}
+/* Footer Section End */
